@@ -1,0 +1,4 @@
+deploy:
+type: git
+repo: https://github.com/gege-xia/my-notes.git
+branch: hexo
